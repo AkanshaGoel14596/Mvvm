@@ -1,4 +1,3 @@
 # Mvvm
 
 ViewModel
-View
